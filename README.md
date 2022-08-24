@@ -20,7 +20,9 @@ kurly 물류 데이터를 자동으로 생성하여 저장해주기 위한 배�
 - service: 핵심 비지니스로직이 담겨있는 레이어
 - model: table과 거의 1:1매핑이 된 Entity
 - enumerablee: enumType 디렉토리
-- repositort: 데이터베이스에 실제 접근하여 동작하는 래이어
+- repositort: 데이터베이스에 실제 접근하여 동작하는 레이어
+- exception: 예외 처리 핸들링이나 커스텀 Exception등 예외와 관련된 레이어
+- security: 인증 및 인가  
 ## applicaation.yml
 ```yml
 spring:
