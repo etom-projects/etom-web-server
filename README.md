@@ -2,6 +2,10 @@
 ETOM팀의 컬리 딜리버리 웹서버 프로젝트
 # etom-batch
 kurly 물류 데이터를 자동으로 생성하여 저장해주기 위한 배치 프로그램
+# etom-발표자료
+[발표자료 링크](https://drive.google.com/file/d/1dPxqMHAiOn3Rq2E28L1YS0DtqT8lE7p2/view?usp=sharing)
+
+
 ---
 ## feature
 - 유저 회원가입, 로그인
